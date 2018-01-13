@@ -1,3 +1,4 @@
+%define debug_package  %{nil}
 %define octpkg geometry
 
 # Exclude .oct files from provides
